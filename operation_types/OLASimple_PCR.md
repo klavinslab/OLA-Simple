@@ -1,7 +1,6 @@
 # OLASimple PCR
 
-New Documentation
-
+Amplification reaction for downstream detection.
 ### Inputs
 
 
