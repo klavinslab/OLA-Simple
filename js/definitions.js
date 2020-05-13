@@ -2,7 +2,7 @@ var config = {
 
   tagline: "The Laboratory</br>Operating System",
   documentation_url: "http://localhost:4000/aquarium",
-  title: "My Workflow",
+  title: "OLA Simple HIV Drug Resistance Assay",
   navigation: [
 
     {
@@ -57,12 +57,6 @@ var config = {
             {
               name: 'OLASimple Paper Detection',
               path: 'operation_types/OLASimple_Paper_Detection' + '.md',
-              type: "local-md"
-            },
-          
-            {
-              name: 'OLASimple Tests',
-              path: 'operation_types/OLASimple_Tests' + '.md',
               type: "local-md"
             },
           
