@@ -1,6 +1,6 @@
 # OLASimple Visual Call
 
-Documentation here. Start with a paragraph, not a heading or title, as in most views, the title will be supplied by the view.
+This protocol instructs the technician to visually assign categories to the paper diagnostic strips. 
 ### Inputs
 
 
