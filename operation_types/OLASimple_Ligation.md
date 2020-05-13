@@ -1,6 +1,6 @@
 # OLASimple Ligation
 
-Documentation here. Start with a paragraph, not a heading or title, as in most views, the title will be supplied by the view.
+Oligonucleotide ligation assay.
 ### Inputs
 
 
@@ -370,7 +370,7 @@ class Protocol
 
     show do
       title "Get #{PCR_SAMPLE.pluralize(myops.length)} from #{THERMOCYCLER}"
-      note "If thermocycler run is complete (infinite hold at 4°C), hit cancel followed by yes. Take #{PCR_SAMPLE.pluralize(myops.length)} #{myops.map { |op| ref(op.input(INPUT).item).bold}.join(', ')} from the #{THERMOCYCLER}"
+      note "If thermocycler run is complete (infinite hold at 4C), hit cancel followed by yes. Take #{PCR_SAMPLE.pluralize(myops.length)} #{myops.map { |op| ref(op.input(INPUT).item).bold}.join(', ')} from the #{THERMOCYCLER}"
       note "If they have been stored, retrieve PCR samples from M20 4th shelf down red box and thaw"
       check "Position #{PCR_SAMPLE.pluralize(myops.length)} on #{BENCH} in front of you."
       centrifuge_proc(PCR_SAMPLE, myops.map { |op| ref(op.input(INPUT).item) }, "3 seconds", "to pull down liquid.", balance = false)
