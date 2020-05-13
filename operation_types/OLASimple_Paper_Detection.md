@@ -1,6 +1,6 @@
 # OLASimple Paper Detection
 
-Documentation here. Start with a paragraph, not a heading or title, as in most views, the title will be supplied by the view.
+This protocol instructs the technicians to load samples onto paper strips.
 ### Inputs
 
 
