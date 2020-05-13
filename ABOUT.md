@@ -1,18 +1,22 @@
-# My Workflow, version 0.0.1
+# OLA Simple HIV Drug Resistance Assay, version 0.0.1
 
-A workflow that does x, y and z [[Download](OLA-Simple.aq)] [[Github Repo](https://github.com/klavinslab/OLA-Simple)]
+Performs a low-cost and almost point-of-care HIV drug resistance assay. [[Download](OLA-Simple.aq)] [[Github Repo](https://github.com/klavinslab/OLA-Simple)]
 
-&copy; My Organization
+&copy; University of Washington
 
 
 ### Maintainer
-- Justin Vrana, <justin.vrana@gmail.com>
+- Justin Vrana, <jvrana@uw.edu>
 
 ### Authors
   - Justin Vrana, University of Washington
+  - Nuttada Panpradist, University of Washington
+  - Ingrid Beck, Seattle Children's Research Institute
 
 ### Acknowledgements
-  - First Last, A Place
+  - Eric Klavins, University of Washington
+  - Barry Lutz, University of Washington
+  - Lisa Frenkel, Seattle Children's Research Institute
 
 ### Details
 This workflow and these documents were automatically generated from
